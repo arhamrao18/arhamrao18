@@ -26,7 +26,7 @@ A full Django-based school management system with 4 role-based portals (Admin, T
 - Auto section assignment & intelligent teacher auto-assign based on qualifications
 - Conflict-free timetable generator with drag-and-drop and clash detection
 - Attendance, term-based results, salary management, and fee vouchers
-- Built with Django, MySQL, Bootstrap 5, and JavaScript
+- Built with Django, MySQL, html, CSS, Bootstrap 5, and JavaScript
 
 
 
