@@ -21,7 +21,7 @@ I'm a Software Engineering student building backend systems with Python and Djan
 
 ### 🚀 Featured Project
 
-**[School Management System (GV School)](https://github.com/arhamrao18/REPO-NAME-HERE)**  
+**[School Management System (GV School)](https://github.com/arhamrao18/School-Management-System.git)**  
 A full Django-based school management system with 4 role-based portals (Admin, Teacher, Student, Parent):
 - Auto section assignment & intelligent teacher auto-assign based on qualifications
 - Conflict-free timetable generator with drag-and-drop and clash detection
