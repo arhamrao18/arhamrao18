@@ -17,7 +17,7 @@ I'm a Software Engineering student building backend systems with Python and Djan
 **Databases:** MySQL, SQLite, PostgreSQL  
 **Frontend:** HTML, CSS, Bootstrap 5, JavaScript  
 **Tools:** Git, GitHub, Postman, VS Code  
-**Other:** Pandas, OpenCV, Pillow
+**Other:** Pandas
 
 ### 🚀 Featured Project
 
