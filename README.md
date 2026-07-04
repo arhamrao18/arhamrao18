@@ -21,7 +21,7 @@ I'm a Software Engineering student building backend systems with Python and Djan
 
 ### 🚀 Featured Project
 
-**[School Management System (GV School)](https://github.com/arhamraorao786-cpu/REPO-NAME-HERE)**  
+**[School Management System (GV School)](https://github.com/arhamrao18/REPO-NAME-HERE)**  
 A full Django-based school management system with 4 role-based portals (Admin, Teacher, Student, Parent):
 - Auto section assignment & intelligent teacher auto-assign based on qualifications
 - Conflict-free timetable generator with drag-and-drop and clash detection
@@ -31,9 +31,9 @@ A full Django-based school management system with 4 role-based portals (Admin, T
 
 
 ### 📫 Let's Connect
-- LinkedIn: [https://www.linkedin.com/in/muhammad-arham-rao-2ab24b356]
-- Fiverr: [https://www.fiverr.com/s/pdDyRKy]
-- Email: [arhamraorao786@gmail.com]
+- LinkedIn: [Click here](https://www.linkedin.com/in/muhammad-arham-rao-2ab24b356)
+- Fiverr: [click here](https://www.fiverr.com/s/pdDyRKy)
+- Email: [click here](arhamraorao786@gmail.com)
 
 ---
 💡 *Open to freelance projects — Django backend development, REST APIs, and bug fixes.*
