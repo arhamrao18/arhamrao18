@@ -28,7 +28,7 @@ A full Django-based school management system with 4 role-based portals (Admin, T
 - Attendance, term-based results, salary management, and fee vouchers
 - Built with Django, MySQL, Bootstrap 5, and JavaScript
 
-*(Add a live demo link and screenshots/GIF here once deployed — this is the #1 thing that convinces clients)*
+
 
 ### 📫 Let's Connect
 - LinkedIn: [https://www.linkedin.com/in/muhammad-arham-rao-2ab24b356]
