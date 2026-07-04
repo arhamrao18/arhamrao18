@@ -32,8 +32,8 @@ A full Django-based school management system with 4 role-based portals (Admin, T
 
 ### 📫 Let's Connect
 - LinkedIn: [https://www.linkedin.com/in/muhammad-arham-rao-2ab24b356]
-- Fiverr: [your Fiverr gig link]
-- Email: [your email]
+- Fiverr: [https://www.fiverr.com/s/pdDyRKy]
+- Email: [arhamraorao786@gmail.com]
 
 ---
 💡 *Open to freelance projects — Django backend development, REST APIs, and bug fixes.*
