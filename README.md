@@ -4,22 +4,21 @@
 
 <br/>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/arhamrao18">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=650&lines=Backend+Developer+%7C+Python+%2F+Django;Django+REST+Framework+%2F+REST+APIs;AI+Automation+Developer+%7C+n8n;Building+Scalable+Systems+for+Real+Businesses" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=6366f1&logo=github" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=for-the-badge&color=6366f1&logo=github" alt="Stars"/>
+<img src="https://komarev.com/ghpvc/?username=arhamrao18&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/arhamrao18?label=Followers&style=for-the-badge&color=6366f1&logo=github" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/arhamrao18?label=Stars&style=for-the-badge&color=6366f1&logo=github" alt="Stars"/>
 
 <br/><br/>
 
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://fiverr.com/YOUR_FIVERR"><img src="https://img.shields.io/badge/Hire%20me%20on-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
-<a href="https://upwork.com/freelancers/YOUR_UPWORK"><img src="https://img.shields.io/badge/Hire%20me%20on-Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
+<a href="mailto:arhamraorao786@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/muhammad-arham-rao-2ab24b356"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.fiverr.com/s/vvVR7bz"><img src="https://img.shields.io/badge/Hire%20me%20on-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
 
 </div>
 
@@ -67,6 +66,7 @@ I care about **clean architecture, secure APIs, and systems that don't break und
 - AI automation with **n8n**
 - Business workflow automation
 - React + Django full-stack development
+- Rest APIs integration
 - Third-party API integrations
 
 </td>
@@ -121,10 +121,13 @@ I care about **clean architecture, secure APIs, and systems that don't break und
 
 **Highlights**
 - Role-based authentication (Admin / Teacher / Student / Parent)
-- Automatic teacher & section assignment based on qualification
+- Automatic teacher and manual assignment based on qualification
 - Conflict-free, drag-and-drop timetable generator with clash detection
 - Attendance, term-based results & marks management
 - Fee voucher system & salary management
+- Automatically promotion of student
+- Teacher Salary deduction
+- Student, classes and section management
 - Fully responsive, secure, database-driven architecture
 
 </td>
@@ -134,9 +137,9 @@ I care about **clean architecture, secure APIs, and systems that don't break und
 <br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django%20REST%20Framework-FF1709?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap%205-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 
 </td>
 </tr>
@@ -170,9 +173,10 @@ I care about **clean architecture, secure APIs, and systems that don't break und
 **Highlights**
 - End-to-end book, category & author management
 - Book issue/return workflow with late-return tracking
-- Automated fine calculation & availability status
+- Availability status
 - Search, filter, and full CRUD operations
 - Optimized MySQL schema for fast queries
+- APIs integration
 
 </td>
 <td width="40%" valign="top">
@@ -181,7 +185,9 @@ I care about **clean architecture, secure APIs, and systems that don't break und
 <br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django%20REST%20Framework-FF1709?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 
 </td>
 </tr>
@@ -230,7 +236,8 @@ I care about **clean architecture, secure APIs, and systems that don't break und
 <img src="https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=flat-square&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/SMTP-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django%20REST%20Framework-FF1709?style=flat-square&logoColor=white"/>
 
 </td>
 </tr>
