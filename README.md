@@ -324,10 +324,9 @@ I care about **clean architecture, secure APIs, and systems that don't break und
 
 I'm actively taking on **freelance backend & automation projects**. If you need a robust API, a full-stack Django + React application, or a business automation workflow — let's talk.
 
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/📩%20Email%20Me-6366f1?style=for-the-badge&logoColor=white"/></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/💼%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logoColor=white"/></a>
-<a href="https://fiverr.com/YOUR_FIVERR"><img src="https://img.shields.io/badge/🟢%20Hire%20on%20Fiverr-1DBF73?style=for-the-badge&logoColor=white"/></a>
-<a href="https://upwork.com/freelancers/YOUR_UPWORK"><img src="https://img.shields.io/badge/🟩%20Hire%20on%20Upwork-6FDA44?style=for-the-badge&logoColor=white"/></a>
+<a href="mailto:arhamraorao786@gmail.com"><img src="https://img.shields.io/badge/📩%20Email%20Me-6366f1?style=for-the-badge&logoColor=white"/></a>
+<a href="https://linkedin.com/in/muhammad-arham-rao-2ab24b356"><img src="https://img.shields.io/badge/💼%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logoColor=white"/></a>
+<a href="https://www.fiverr.com/s/vvVR7bz"><img src="https://img.shields.io/badge/🟢%20Hire%20on%20Fiverr-1DBF73?style=for-the-badge&logoColor=white"/></a>
 
 <br/><br/>
 
