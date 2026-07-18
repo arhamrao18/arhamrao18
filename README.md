@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=260&section=header&text=Muhammad%20Arham%20Rao&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Django%20%7C%20REST%20APIs%20%7C%20AI%20Automation&descAlignY=58&descSize=18" width="100%"/>
 
@@ -340,4 +340,125 @@ I'm actively taking on **freelance backend & automation projects**. If you need 
 
 <div align="center">
 <sub>⚡ Built with precision by Muhammad Arham Rao — Backend Developer & AI Automation Engineer</sub>
+</div> -->
+
+
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Arham%20Rao&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%2F%20Automation%20%2F%20Agentic%20AI%20Engineer&descAlignY=58&descSize=20" width="100%"/>
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.fiverr.com/YOUR-FIVERR-HANDLE">
+  <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
+</a>
+<a href="mailto:YOUR-EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </div>
+
+<br/>
+
+```
+
+$ whoami
+> Software Engineering student (COMSATS University Islamabad)
+> Backend Development Intern @ SoftSuites Technologies
+> Freelance Automation & Backend Engineer — Fiverr (US/UK/EU clients)
+> Building toward: Agentic AI
+
+```
+
+### 🧠 About Me
+
+- 🎓 Software Engineering student at **COMSATS University Islamabad** (transferring to Lahore campus)
+- 💼 Backend Development Intern at **SoftSuites Technologies**
+- 🚀 Freelance developer on **Fiverr** — Django/DRF APIs, React frontends, n8n automation
+- 🔭 Currently building a **Lead Automation & CRM System** (n8n + Django + React) with AI-powered lead scoring
+- 🌱 Actively leveling up in **Agentic AI** — LLM APIs → RAG → LangChain/LangGraph → CrewAI
+- ⚡ Fun fact: I debug Docker networking issues for fun (host.docker.internal, I see you 👀)
+
+<br/>
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
+
+<br/>
+
+### 📌 Featured Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🏫 GV School Management System**
+Four-portal Django app (Admin/Teacher/Student/Parent) with auto teacher assignment, clash-free timetable generation, attendance, fees & salary management.
+`Django` `Python` `SQLite/MySQL`
+
+</td>
+<td width="50%" valign="top">
+
+**📚 Library Management System**
+Full-stack app with JWT auth, Manager & Member portals.
+`Django REST Framework` `React` `JWT`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**⚙️ Lead Automation & CRM System**
+React lead-capture form → Django REST API → n8n workflow with email notifications, wait/follow-up logic, and AI-based lead scoring.
+`n8n` `Django` `React` `Automation`
+
+</td>
+<td width="50%" valign="top">
+
+**🤖 AI Email Assistant**
+Gmail + Google Gemini powered chatbot with dual-branch architecture for live chat and rate-limit-aware bulk reporting.
+`n8n` `Gemini API` `Automation`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arhamrao18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arhamrao18&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhamrao18&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<br/>
+
+### 📫 Let's Connect
+
+<p align="center">
+  Open to backend, automation, and AI-agent engagement work — reach out anytime.
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer"/>
